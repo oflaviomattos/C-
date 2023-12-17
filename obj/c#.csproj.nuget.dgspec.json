@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\c#\\c#.csproj": {}
+    "C:\\xampp\\htdocs\\c#\\CSharp\\c#.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\c#\\c#.csproj": {
+    "C:\\xampp\\htdocs\\c#\\CSharp\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\c#\\CSharp\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\xampp\\htdocs\\c#\\c#.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\c#\\CSharp\\c#.csproj",
         "packagesPath": "C:\\Users\\Flavio\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\c#\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\c#\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Flavio\\AppData\\Roaming\\NuGet\\NuGet.Config"

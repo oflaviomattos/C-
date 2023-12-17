@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2xJhq7D1tKdCMj0jBEzdJcK/7j8U01ZLH7Il2xw+OoLzXHoLiQRhWnJRgfab3K+tQ5lZr9NSJaoVWF1kjrT8Q==",
+  "dgSpecHash": "L2Tlqs4iB2Uc+vMBqj/ibkl1dP+J4aDGclfWLf9yvkiPUbtAReR0btvFQV3E3qNoAdGgII2Y0AGoJ0CrbwQcLA==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\c#\\c#.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\c#\\CSharp\\c#.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
